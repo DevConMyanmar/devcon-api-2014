@@ -31,3 +31,6 @@ Now you can visit `localhost:4000` from your browser. List all available command
  3. Commit your changes (`git commit -am 'Added some feature'`)
  4. Push to the branch (`git push origin my-new-feature`)
  5. Create new Pull Request
+
+## License
+[MIT](http://www.opensource.org/licenses/MIT)
